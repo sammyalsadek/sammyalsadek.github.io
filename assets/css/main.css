@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #672504ed;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2465,7 +2465,7 @@ input, select, textarea {
 		}
 
 		table thead {
-			border-bottom: solid 2px rgba(212, 212, 255, 0.1);
+			border-bottom: solid 2px rgba(236, 79, 6, 0.1);
 		}
 
 		table tfoot {
@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #9e4201;
 		}
 
 			.spotlights > section > .image {
@@ -3000,7 +3000,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #9e4201de;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3410,7 +3410,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #432b24;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3491,11 +3491,11 @@ input, select, textarea {
 			}
 
 		#banner.style1:after {
-			background-color: #6fc3df;
+			background-color: #df896f;
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #f79758;
 		}
 
 		#banner.style3:after {
@@ -3926,7 +3926,7 @@ input, select, textarea {
 			}
 
 	body.is-ie #menu {
-		background: rgba(42, 47, 74, 0.975);
+		background: rgba(74, 48, 42, 0.975);
 	}
 
 	body.is-menu-visible #wrapper {
