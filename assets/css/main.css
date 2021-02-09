@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #672504ed;
+		background: #ae5109;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #9e4201;
+			background-color: #E96A0A;
 		}
 
 			.spotlights > section > .image {
@@ -3000,7 +3000,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #9e4201de;
+				background-color: #d35f06;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3495,7 +3495,7 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #f79758;
+			background-color: #e48741cd;
 		}
 
 		#banner.style3:after {
