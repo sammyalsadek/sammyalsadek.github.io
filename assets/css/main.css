@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ae5109;
+		background: #284d17;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2839,11 +2839,11 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: #549E32;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: #549E32;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #E96A0A;
+			background-color: #549E32;
 		}
 
 			.spotlights > section > .image {
@@ -3000,7 +3000,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #d35f06;
+				background-color: #3f7925;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3267,7 +3267,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #ec8d81;
+				color: #549E32;
 			}
 
 			#header.alt.style4 .logo strong {
@@ -3495,11 +3495,11 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #e48741cd;
+			background-color: #549e32c4;
 		}
 
 		#banner.style3:after {
-			background-color: #ec8d81;
+			background-color: #549E32;
 		}
 
 		#banner.style4:after {
