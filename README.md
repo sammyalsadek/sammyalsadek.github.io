@@ -1,3 +1,3 @@
 # sammyalsadek.github.io
-This is my portfolio website meant to showcase my projects in a neat and organized fashion. This project expresses my understanding in HTML, CSS, and JavaScript.
+Portfolio website.
 https://sammyalsadek.github.io/index.html
